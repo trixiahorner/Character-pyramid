@@ -1,4 +1,5 @@
 
+
 /*********************************************************************************************
 Write a C++ program that displays a Letter Pyramid from a user-provided std::string.
 If the user enters 'ABCDEFG', then your program should display:
@@ -11,6 +12,8 @@ If the user enters 'ABCDEFG', then your program should display:
  ABCDEFEDCBA                                                                                                           
 ABCDEFGFEDCBA 
 *************************************************************************************************/
+
+
 
 
 #include <iostream>
